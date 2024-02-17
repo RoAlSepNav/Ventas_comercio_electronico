@@ -1,6 +1,6 @@
 # Ventas comercio electrónico
 
-<img src="https://tecnopymes.cl/wp-content/uploads/2018/12/ecommerce-seo-tips.jpg">
+<img src="https://tecnopymes.cl/wp-content/uploads/2018/12/ecommerce-seo-tips.jpg" width='80%'>
 
 ## Tabla de contenidos
 
